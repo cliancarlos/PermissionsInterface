@@ -1,6 +1,6 @@
 
 
-# **Calendar app**
+# **Permissions Interface**
 
 ## ⚠️⚠️⚠️ WIP ⚠️⚠️⚠️
 
